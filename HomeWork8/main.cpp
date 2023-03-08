@@ -41,13 +41,3 @@ double Power(double a, int n)
 	}
 	return N;
 }
-
-
-
-
-
-
-
-
-
-
